@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "extends": ["@validatecl/eslint-config/typescript"],
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "off"
+  }
+}

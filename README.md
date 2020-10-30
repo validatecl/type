@@ -1,6 +1,6 @@
 # @validatecl/type
 
-[![Build Status](https://travis-ci.org/validatecl/type.svg?branch=master)](https://travis-ci.com/validatecl/type.svg?branch=main)
+[![Build Status](https://travis-ci.com/validatecl/type.svg?branch=main)](https://travis-ci.org/validatecl/type)
 ![GitHub](https://img.shields.io/github/license/validatecl/type)
 ![GitHub last commit](https://img.shields.io/github/last-commit/validatecl/type)
 ![npm (scoped)](https://img.shields.io/npm/v/@validatecl/type)

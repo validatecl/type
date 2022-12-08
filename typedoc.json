@@ -1,5 +1,7 @@
 {
-  "theme": "minimal",
-  "mode": "file",
+  "entryPoints": [ 
+    "src/index.ts"
+  ],
+  "theme": "default",
   "out": "docs"
 }

@@ -14,6 +14,10 @@ Functional, dependency-free check library for Node.js and the browser (transpile
 npm i @validatecl/type
 ```
 
+```sh
+yarn add @validatecl/type
+```
+
 ## Usage
 
 Import all or just what you need:
